@@ -7,6 +7,6 @@ public class MethodParameter1 {
 
   public static void main(String[] args) {
     // Pemanggilan method dengan argumen
-    methodKu("Jamal", "Muhammad"); // Jamal adalah argumen
+    methodKu("Abimanyu", "Luthfi"); // Jamal adalah argumen
   }
 }
