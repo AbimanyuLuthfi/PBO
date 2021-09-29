@@ -34,4 +34,7 @@ public class forLoop {
 
     }
 
-    System.out.println("loop keempat");
+     System.out.println("ini adalah akhir program");
+
+  }
+}
