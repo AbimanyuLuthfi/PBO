@@ -1,20 +1,24 @@
 import java.util.Scanner;
 class Soal3 {
 
-    private static int BilBul, i, total;
+    private static int Bulat;
+    private static int a;
+    private static int total;
+    private static int jml;
+    private static int angka;
 
     Scanner angka = new Scanner(System.in);
 
-    public int Perulangan() {
-    for (int i = 0; i < 10; i++) {
-    System.out.printf ("Masukkan Bilangan " + i + " = " );
-    BilBul = angka.nextInt();
+    public int loop1() {
+    for (int a = 0; a < 10; a++) {
+    System.out.printf ("Masukkan Bilangan Yang akan dikalkulasi " + a + " = " );
+    Bulat = angka.nextInt();
      }
      return i;
     }
 
-    public int Kondisi() {
-        total = BilBul + jml;
+    public int Kalkulasi() {
+        total = Bulat + jml;
         if (total == total) {
             System.out.printf ("Total " + total);
             return total;
@@ -24,7 +28,7 @@ class Soal3 {
 
     public static void main(String[] args) {
         Soal3 jawaban = new Soal3();
-        jawaban.Perulangan();
-        jawaban.Kondisi();
+        jawaban.loop1();
+        jawaban.Kalkulasi();
     }
 }
