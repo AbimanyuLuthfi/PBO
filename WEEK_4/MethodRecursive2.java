@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class MethodRecursive {
+public class MethodRecursive2 {
   public static void main(String[] args) {
     int nilai;
 
