@@ -27,7 +27,7 @@ class Mahasiswa {
         System.out.println();
     }
 }
-public class ConstructorYT {
+public class ConstructorYT_KT {
     public static void main (String [] args) {
 
         Mahasiswa mahasiswa1 = new Mahasiswa("Abimanyu","2020071036","Informatika");
