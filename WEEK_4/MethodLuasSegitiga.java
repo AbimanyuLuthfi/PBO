@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class MethodSegitiga{
+public class MethodLuasSegitiga{
     static float Lsegitiga (int tinggi, int alas){
 
         float luas = alas * tinggi /2;
