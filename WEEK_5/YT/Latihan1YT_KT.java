@@ -79,7 +79,7 @@ class Armor {
   }
 }
 
-public class Latihan1YT {
+public class Latihan1YT_KT {
   public static void main(String[] args) {
     
     // membuat object Player
