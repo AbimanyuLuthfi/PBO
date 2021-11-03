@@ -53,7 +53,7 @@ class Mahasiswa {
 //   }
 // }
 
-public class MethodYT {
+public class MethodYT_KT {
   public static void main(String[] args) {
     Mahasiswa mahasiswa1 = new Mahasiswa("Abimanyu", "2020071036");
     // method
