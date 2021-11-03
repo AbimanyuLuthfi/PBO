@@ -1,4 +1,4 @@
-public class Person {
+public class Person_OOP {
     String fname = "Abimanyu";
     String lname = "Luthfi";
     int age = 18;
